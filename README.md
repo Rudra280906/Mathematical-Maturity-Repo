@@ -7,7 +7,7 @@ A unified repository for bridging rigorous mathematical theory with computationa
   > /Real Analysis: Rigorous Definitions and Riemann-Stieltjes Integrals \
   > /Complex Analysis: Function Theory, Contour Integration and Residue Theory \
   > /Linear Algebra: Operator Theory and Spectral Decomposition \
-  > /Stochastics: Martingale Theory and Stochastic Calculus derivations \
+  > /Stochastics: Martingale Theory and Stochastic Calculus derivations 
 
 /src: Coding Implementations 
   > /Numerical Analysis: SymPy-based algorithms for Root-finding problems \
