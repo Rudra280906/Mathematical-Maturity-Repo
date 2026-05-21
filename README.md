@@ -3,15 +3,16 @@
 A unified repository for bridging rigorous mathematical theory with computational implementation. This project serves as a structured knowledge base, documenting the evolution of proofs and corresponding numerical implementation to verify them.
 
 ## Directory Architecture
-/theory: Theoretical Derivations and Formal Proofs 
+/Undergraduate Foundations: Undergraduate Material 
   > /Real Analysis: Rigorous Definitions and Riemann-Stieltjes Integrals \
   > /Complex Analysis: Function Theory, Contour Integration and Residue Theory \
-  > /Linear Algebra: Operator Theory and Spectral Decomposition \
-  > /Stochastics: Martingale Theory and Stochastic Calculus derivations 
-
-/src: Coding Implementations 
   > /Numerical Analysis: SymPy-based algorithms for Root-finding problems \
-  > /Stochastics: Random Walk Analysis 
+  > /Linear Algebra: Operator Theory and Spectral Decomposition \
+  > /Stochastic Calculus (Discrete Time): Martingale Theory and Stochastic Calculus derivations and Random Walk simulation \
+
+/Advanced & Graduate Material: Graduate Material
+  > /Measure Theory: Sigma algebras, Measure Spaces, Properties of Measure Spaces, Connection to Probability \
+  > /Topology & Topological Data Analysis: Homotopy, Contractibility, Fundamental Group \
 
 ## Technical Stack
 LaTeX: Proof Generation and document structuring \
