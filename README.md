@@ -8,11 +8,11 @@ A unified repository for bridging rigorous mathematical theory with computationa
   > /Complex Analysis: Function Theory, Contour Integration and Residue Theory \
   > /Numerical Analysis: SymPy-based algorithms for Root-finding problems \
   > /Linear Algebra: Operator Theory and Spectral Decomposition \
-  > /Stochastic Calculus (Discrete Time): Martingale Theory and Stochastic Calculus derivations and Random Walk simulation \
+  > /Stochastic Calculus (Discrete Time): Martingale Theory and Stochastic Calculus derivations and Random Walk simulation 
 
 /Advanced & Graduate Material: Graduate Material
   > /Measure Theory: Sigma algebras, Measure Spaces, Properties of Measure Spaces, Connection to Probability \
-  > /Topology & Topological Data Analysis: Homotopy, Contractibility, Fundamental Group \
+  > /Topology & Topological Data Analysis: Homotopy, Contractibility, Fundamental Group 
 
 ## Technical Stack
 LaTeX: Proof Generation and document structuring \
